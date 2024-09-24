@@ -139,6 +139,9 @@ $ sudo python3 st.py
 اثری از تیم ایسلندی 
 
 
+![1000227525](https://github.com/user-attachments/assets/86fd9f2f-de0d-4526-98c5-2c7c7b312cf0)
+
+
 
 
 
