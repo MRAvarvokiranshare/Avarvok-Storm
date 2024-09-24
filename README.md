@@ -1,5 +1,20 @@
 # Avarvok-Storm
-یک ابزار برای هک دوربین و میکروفون مبایل بدون مجوز 
+
+One tool to penetrate a webcam camera is a mobile microphone without a license 
+
+
+Let's go to education 
+
+
+
+
+
+https://github.com/user-attachments/assets/c9f8c33a-70db-4279-8445-3e5d3de30caf
+
+
+
+
+
 
 
 <h1 align="center">
@@ -113,3 +128,19 @@ $ sudo python3 st.py
 > To run ngrok on termux you need to enable your personal hotspot and cellular network.
 
 </p>
+
+باتشکر فراوان از joshkar
+
+![1000227523](https://github.com/user-attachments/assets/a69992b6-0949-41f0-8d06-e3f33bc3a798)
+
+
+
+
+اثری از تیم ایسلندی 
+
+
+
+
+
+https://github.com/user-attachments/assets/2dd310dd-80e1-4f5a-a5cf-6acdfe621cce
+
