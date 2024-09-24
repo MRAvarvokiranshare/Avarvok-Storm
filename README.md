@@ -142,5 +142,7 @@ $ sudo python3 st.py
 
 
 
+goodbye 🍁🥰
+
 https://github.com/user-attachments/assets/2dd310dd-80e1-4f5a-a5cf-6acdfe621cce
 
